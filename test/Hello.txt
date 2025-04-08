@@ -1,1 +1,1 @@
-Hellogit status!
+Hellocd /c/tmp/test!
